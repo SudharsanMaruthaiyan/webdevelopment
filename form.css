@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url(img2.jpeg);
+    background-color: black;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -98,7 +98,7 @@ button {
 .button,
 button:hover {
     background-color: red;
-    box-shadow: ;
+    
 }
 
 .footer {
