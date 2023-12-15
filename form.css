@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: black;
+    background: url(img4.jpg);
     display: flex;
     justify-content: center;
     flex-direction: column;
